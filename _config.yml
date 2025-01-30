@@ -1,3 +1,4 @@
-theme: Architect
-author: Lalitha A R
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-themeauthor: Lalitha A R
 description: A girl in love with Kanha <3
